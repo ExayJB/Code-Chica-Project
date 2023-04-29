@@ -1,0 +1,16 @@
+const responseObj = {
+    hi: "Hello! What can I help you today? Type what you're facing issue with- Product, Shipping, Transaction, Shop",
+    Hi: "Hello! What can I help you today? Type what you're facing issue with- Product, Shipping, Transaction, Shop",
+    hello: "Hello! What can I help you today? Type what you're facing issue with- Product, Shipping, Transaction, Shop",
+    Hello: "Hello! What can I help you today? Type what you're facing issue with- Product, Shipping, Transaction, Shop",
+    hey: "Hello! What can I help you with- Product, Shipping, Transaction, Shop, Contact",
+    Hey: "Hello! What can I help you with- Product, Shipping, Transaction, Shop, Contact",
+    Product: "Enter reference number of your product.",
+    product: "Enter reference number of your product.",
+    shipping: "Track your order status",
+    Shipping: "Track your order status",
+    Transaction: "Enter transaction ID to download receipt.",
+    transaction: "Enter transaction ID to download receipt.",
+    Shop: "Open Shop",
+    shop: "Open Shop",
+  };
